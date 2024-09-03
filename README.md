@@ -19,13 +19,15 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:reddydeepa33@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/deepa-reddy-k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
+    <a href="https://portfolio-dun-sigma-21.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/portfolio-F2C811?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:reddydeepa33@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/deepa-reddy-k" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
 </div>
 
  <hr/>
