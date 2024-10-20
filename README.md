@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-    <a href="https://portfolio-dun-sigma-21.vercel.app/" target="_blank">
+    <a href="https://my-portfolio-lyart-delta-49.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/portfolio-F2C811?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank" />
     </a>
     <a href="mailto:reddydeepa33@gmail.com">
