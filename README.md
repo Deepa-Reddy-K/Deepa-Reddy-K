@@ -12,7 +12,7 @@
 
 <div align="left">
  
- 🌱 I’m currently learning **Docker, Firebase**
+ 🌱 **I’m currently a Software Developer at InHawk IT Solutions**
 
 ⚡ Fun fact : **Extroverted socialite😄, introverted thinker🤔**
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,c,python,java,html,css,tailwind,mui,react" />
-    <img src="https://skillicons.dev/icons?i=redux,nextjs,nodejs,express,mongodb,firebase,mysql,figma,github,git,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,c,cs,python,java,html,css,tailwind,mui,react" />
+    <img src="https://skillicons.dev/icons?i=redux,nextjs,nodejs,express,dotnet,mongodb,firebase,mysql,figma,github,git,vscode" /><br>
 </div>
 
 <br/>
