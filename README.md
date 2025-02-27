@@ -22,7 +22,7 @@
 ### 📫 Connect With Me
 <p align="center">
     <a href="https://my-portfolio-lyart-delta-49.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Portfolio-008000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
     <a href="mailto:reddydeepa33@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
