@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" height="240" width="300" src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" />
 
-<h3 align="center">💻 Software Engineer | 🌐 Frontend Developer | 🚀 Tech Explorer</h3>
+<h3 align="center">💻 Software Engineer | 🌐 Frontend Developer</h3>
 
 ---
 
